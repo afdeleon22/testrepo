@@ -1,3 +1,2 @@
 # testrepo
-testing github
-more text added
+its a markdown file in this repository
